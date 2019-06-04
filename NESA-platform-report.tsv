@@ -102,17 +102,40 @@ Anglia	0126	008	NORWICH	Platform 3 - 250m (270yds) PP
 Anglia	0126	009	NORWICH	Platform 4 - 255m (275yds) PP
 Anglia	0126	010	NORWICH	Platform 5 - 198m (214yds)y PP
 Anglia	0126	011	NORWICH	Platform 6 - 132m (142yds) PP
+Anglia	0129	001	ROMFORD	Platform 1 63m (69 yd)
+Anglia	0129	002	EMERSON PARK	Platform 86m (94 yds)
+Anglia	0129	003	UPMINSTER	Platform 143m (156 yds)
 Anglia	0130	004	SHENFIELD	Up platform - 248m (269yd)
 Anglia	0130	005	SHENFIELD	Down platform - 249m (270yd)
 Anglia	0131	008	WICKFORD	Platform 1 - 109m (118yd)
 Anglia	0131	009	WICKFORD	Platform 2 - 248m (268yd)
 Anglia	0131	010	WICKFORD	Platform 3 - 252m (273yd)
 Anglia	0131	011	WICKFORD	Platform 4 - 106m (113yd)
+Anglia	0132	003	RAYLEIGH	Up platform - 249m (269yds)
+Anglia	0132	004	RAYLEIGH	Down platform - 250m (270yds)
+Anglia	0132	007	HOCKLEY	Up platform - 250m (270yds)
+Anglia	0132	008	HOCKLEY	Down platform - 250m (270yds)
+Anglia	0132	011	ROCHFORD	Up platform - 249m (269yds)
+Anglia	0132	012	ROCHFORD	Down platform - 249m (269yds)
+Anglia	0133	006	SOUTHEND AIRPORT	Up platform - 250m (273yd)
+Anglia	0133	008	SOUTHEND AIRPORT	Down platform - 250m (273yd)
+Anglia	0133	010	PRITTLEWELL	Up platform - 248m (269yd)
+Anglia	0133	012	PRITTLEWELL	Down platform - 249m (269yd)
+Anglia	0133	019	SOUTHEND VICTORIA	Platform 1 - 249m (269yd) PP
+Anglia	0133	021	SOUTHEND VICTORIA	Platform 2 - 244m (264yd) PP
+Anglia	0133	023	SOUTHEND VICTORIA	Platform 3 - 244m (264yd) PP
+Anglia	0133	025	SOUTHEND VICTORIA	Platform 4 - 248m (268yd) PP
 Anglia	0134	003	BATTLESBRIDGE	Platform - 85m (92yd)
 Anglia	0134	004	SOUTH WOODHAM FERRERS	Platform - 264m (286yd)
 Anglia	0135	003	NORTH FAMBRIDGE	Up platform - 165m (178yd)
 Anglia	0135	004	NORTH FAMBRIDGE	Down platform - 189m (206yd)
+Anglia	0136	002	ALTHORNE	Platform - 162m (176yd)
+Anglia	0136	003	BURNHAM-ON-CROUCH	Platform - 169m (183yd)
+Anglia	0136	004	SOUTHMINSTER	Platform - 171m (185yd)
 Anglia	0137	007	WHITE NOTLEY	Platform - 249m (272yds)
+Anglia	0138	002	CRESSING	Platform - 178m (192yds)
+Anglia	0138	003	BRAINTREE FREEPORT	Platform - 166m (181yds)
+Anglia	0138	004	BRAINTREE	Platform - 247m (270yds)
 Anglia	0140	001	MARKS TEY	Platform - 50m (55yds)
 Anglia	0140	002	CHAPPEL 4 WAKES COLNE	Platform - 107m (116yds)
 Anglia	0141	001	BURES	Platform - 82m (89yds)
@@ -148,6 +171,10 @@ Anglia	0154	004	HARWICH INTERNATIONAL	Platform 2 - 264m (289 yds)
 Anglia	0154	005	HARWICH INTERNATIONAL	Platform 3 - 259m (283 yds) PP
 Anglia	0155	003	DOVERCOURT	Platform - 167m (180 yds)
 Anglia	0155	004	HARWICH TOWN	Platform - 169m (183 yds)
+Anglia	0159	008	BETHNAL GREEN	Up Platform - 185m (200yds)
+Anglia	0159	009	BETHNAL GREEN	Down Platform - 189m (204yds)
+Anglia	0159	014	CAMBRIDGE HEATH	Up Platform - 196m (212yd)
+Anglia	0159	015	CAMBRIDGE HEATH	Down Platform - 197m (213yd)
 Anglia	0160	005	HACKNEY DOWNS	Up Platform 1 - 214m (215yd)
 Anglia	0160	006	HACKNEY DOWNS	Down Platform 2 - 192m (208yd)
 Anglia	0160	007	HACKNEY DOWNS	Up Platform 3 - 192m (208yd)
@@ -212,6 +239,18 @@ Anglia	0191	003	DOWNHAM MARKET	Up platform - 183m (198 yd)
 Anglia	0191	004	DOWNHAM MARKET	Down platform - 181m (196 yd)
 Anglia	0192	003	WATLINGTON	Down platform - 90m (97 yd)
 Anglia	0192	004	WATLINGTON	Up platform - 106m (114 yd)
+Anglia	0195	003	RECTORY ROAD	Up platform - 186m (201 yd)
+Anglia	0195	004	RECTORY ROAD	Down platform - 187m (202 yd)
+Anglia	0195	005	STOKE NEWINGTON	Up platform - 151m (163 yd)
+Anglia	0195	006	STOKE NEWINGTON	Down platform - 152m (165 yd)
+Anglia	0195	009	STAMFORD HILL	Up platform - 187m (202 yd)
+Anglia	0195	010	STAMFORD HILL	Down platform - 186m (201 yd)
+Anglia	0196	003	SEVEN SISTERS	Up platform - 188m (203 yd)
+Anglia	0196	004	SEVEN SISTERS	Down platform - 184m (200 yd)
+Anglia	0196	012	BRUCE GROVE	Up platform - 190m (206 yd)
+Anglia	0196	013	BRUCE GROVE	Down platform - 190m (206 yd)
+Anglia	0196	014	WHITE HART LANE	Up platform - 186m (201 yd)
+Anglia	0196	015	WHITE HART LANE	Down platform - 189 (205 yd)
 Anglia	0197	003	SILVER STREET	Up platform - 188m (204 yd)
 Anglia	0197	004	SILVER STREET	Down platform - 188m (205 yd)
 Anglia	0197	007	EDMONTON GREEN	Up platform - 186m (202 yd)
@@ -288,12 +327,32 @@ Anglia	0229	008	CANONBURY	Platform 3 - 88m (96yds)
 Anglia	0229	010	CANONBURY	Platform 4 - 88m (96yds)
 Anglia	0229	022	DALSTON KINGSLAND	Up Platform 1 - 83m (91yds)
 Anglia	0229	024	DALSTON KINGSLAND	Down Platform 2 - 100m (109yds)
+Anglia	0230	005	HACKNEY CENTRAL	Up platform 1 - 126m (136yds)
+Anglia	0230	006	HACKNEY CENTRAL	Down platform 2 - 126m (136yds)
+Anglia	0230	015	HOMERTON	Up platform 1 - 87m (95yds)
+Anglia	0230	016	HOMERTON	Down platform 2 - 87m (95yds)
+Anglia	0230	026	HACKNEY WICK	Up platform 1 - 126m (136yds)
+Anglia	0230	028	HACKNEY WICK	Down platform 2 - 126m (136yds)
 Anglia	0232	003	STRATFORD	Platform 1 - 144m (157yds) PP
 Anglia	0232	004	STRATFORD	Platform 2 - 130m (142yds) PP
 Anglia	0233	001	HIGHBURY & ISLINGTON	Platform 1 - 133m (145 yds)
 Anglia	0233	002	HIGHBURY & ISLINGTON	Platform 2 - 138m (151 yds)
 Anglia	0233	005	CANONBURY	Platform 1 - 126m (138 yds)
 Anglia	0233	006	CANONBURY	Platform 2 - 127m (139 yds)
+Anglia	0234	003	DALSTON JUNCTION	Platform 1 - 95m (103yds)
+Anglia	0234	004	DALSTON JUNCTION	Platform 2 -90m (98yds)
+Anglia	0234	005	DALSTON JUNCTION	Platform 3 - 89m (97yds)
+Anglia	0234	006	DALSTON JUNCTION	Platform 4 - 95m (103yds)
+Anglia	0234	007	HAGGERSTON	Platform 1 - 93m (102yds)
+Anglia	0234	008	HAGGERSTON	Platform 2 - 93m (102yds)
+Anglia	0234	009	HOXTON	Platform 1 - 92m (101yds)
+Anglia	0234	010	HOXTON	Platform 2 - 92m (101yds)
+Anglia	0236	003	ROTHERHITHE	Platform 1 - 73m (80yds)
+Anglia	0236	004	ROTHERHITHE	Platform 2 - 73m (80yds)
+Anglia	0236	005	ROTHERHITHE	Platform 3 - 91m (99yds)
+Anglia	0236	006	ROTHERHITHE	Platform 4 - 90m (99yds)
+Anglia	0236	007	CANADA WATER	Platform 1 - 103m (113yds)
+Anglia	0236	008	CANADA WATER	Platform 2 - 104m (114yds)
 Anglia	0237	011	NEW CROSS	Platform D - 101m (110yds)
 Anglia	0237	013	NEW CROSS GATE	Platform 1 - 142m (155yds)
 Anglia	0244	001	GOSPEL OAK	Platform 3 - 97m (105yds) PP
@@ -418,6 +477,10 @@ Anglia	0309	008	GUNTON	Platform - 88m (96 yds)
 Anglia	0310	004	ROUGHTON ROAD	Platform - 58m (63 yds)
 Anglia	0310	005	ROUGHTON ROAD	Platforms 1 - 137m (148 yds) PP
 Anglia	0310	006	ROUGHTON ROAD	Platforms 2 - 137m (148 yds) PP
+Anglia	0311	001	CROMER	Platforms 1 - 137m (148 yds)
+Anglia	0311	002	CROMER	Platforms 2 - 142m (155 yds)
+Anglia	0311	003	WEST RUNTON	Platform - 91m (99 yds)
+Anglia	0311	004	SHERINGHAM	Platform - 44m (46 yds)
 Anglia	0312	003	LINGWOOD	Platform - 92m (99 yds)
 Anglia	0313	005	ACLE	Up platform - 119m (130 yds)
 Anglia	0313	006	ACLE	Down platform - 69m (73 yds)
@@ -522,6 +585,9 @@ Kent-Sussex-Wessex	0376	005	MAIDSTONE WEST	Platform1 PP-A
 Kent-Sussex-Wessex	0376	006	MAIDSTONE WEST	Platform2 PP-A
 Kent-Sussex-Wessex	0385	007	VICTORIA	Platforms 9-19 PP
 Kent-Sussex-Wessex	0392	002	EAST CROYDON	slow and slow reversible platform
+Kent-Sussex-Wessex	0393	001	SOUTH CROYDON	Platform 4 PP-A (attaching only)
+Kent-Sussex-Wessex	0393	002	SOUTH CROYDON	Platform 5 PP-A
+Kent-Sussex-Wessex	0393	005	PURLEY OAKS	Platform 6 PP-A (detaching only)
 Kent-Sussex-Wessex	0397	001	REDHILL	Platform 0 PP
 Kent-Sussex-Wessex	0397	002	REDHILL	Platform 1 PP
 Kent-Sussex-Wessex	0397	003	REDHILL	Platform 2 PP
@@ -619,6 +685,7 @@ Kent-Sussex-Wessex	0707	004	WESTBURY	trains on all platforms
 Kent-Sussex-Wessex	0722	004	BOX HILL 4 WESTHUMBLE	(both directions), Down Main platform line
 Kent-Sussex-Wessex	0722	005	DORKING	(both directions) and Up Main platform
 Kent-Sussex-Wessex	0725	002	HORSHAM	(both directions), Down and Up Main platform lines
+Kent-Sussex-Wessex	0729	001	KINGSTON	Platform 3 PP
 Kent-Sussex-Wessex	0733	004	THAMES DITTON	Surbiton (platform 4) and Hampton Court level
 Kent-Sussex-Wessex	0733	006	HAMPTON COURT	Platforms 1 2 PP-A
 Kent-Sussex-Wessex	0743	002	ST MARGARETS	Platform 2 PP
@@ -902,6 +969,7 @@ London-North-Eastern	0628	011	SHEFFIELD	PP is authorised on Platforms 1, 2, 5, 6
 London-North-Eastern	0690	003	WAKEFIELD WESTGATE	PP is authorised on the Down Platform Loop
 London-North-Eastern	0690	004	WAKEFIELD WESTGATE	and Up Platform line.
 London-North-Eastern	0693	005	LEEDS	platforms 10, 13, 14, 17 - full use for class 1, 2,
+London-North-Eastern	0696	014	HORNBEAM PARK	(Platform 1).
 London-North-Eastern	0715	002	WAKEFIELD KIRKGATE	platforms 1, 2 and 3 for Class 1, 2, 3 ECS, 5, 9 80
 London-North-Eastern	0716	008	NORMANTON	(3) Up platform out of use
 London-North-Eastern	0716	010	NORMANTON	Down Normanton line Platform for use in
@@ -920,9 +988,15 @@ London-North-Eastern	0770	004	SELBY	Down Hull Platform 1 for Class 1, 2, 3 ECS, 
 London-North-Eastern	0775	002	HULL	15mph leaving and entering platforms 0 00
 London-North-Eastern	0789	004	BRIDLINGTON	3 (ECS), 5, 9 4 0 trains in Platform 1 only.
 London-North-Eastern	0789	005	BEMPTON	PP is authorised on Platforms 4 and 5 for use in
+London-North-Eastern	0800	004	SKIPTON	Platforms for Class 1, 2, 3 ECS, 5, 9 4 0 trains.
 London-North-Eastern	0802	005	BEN RHYDDING	platforms. - See Local Instruction.
+London-North-Eastern	0804	004	SHIPLEY	Station Platforms. - See Local Instruction.
+London-North-Eastern	0804	007	FRIZINGHALL	(2)Permissible speed leaving Platform 1
+London-North-Eastern	0804	008	BRADFORD FORSTER SQUARE	along Down and Platform 2 along Up is 35mph.
 London-North-Eastern	0868	009	HARTLEPOOL	departing Down Bay Platform
 London-North-Eastern	0884	006	MIDDLESBROUGH	Up and Down platforms
+London-North-Eastern	0887	011	LONGBECK	Platforms 1 and 2 for Class 1, 2, 3ECS, 5,9 0
+London-North-Eastern	0893	002	SLEIGHTS	T = Whitby end of Sleights Station platform.
 London-North-Eastern	0913	006	SHILDON	3 (ECS), 5, 9 4 0 trains in Bishop Auckland platform
 London-North-Eastern	0921	023	CARLISLE	PP is authorised in Platforms 1, 3 and 4
 London-North-Western-North	0007	021	RUGELEY TRENT VALLEY	Platform lengths. Rugelsy Trent Valley
@@ -1042,6 +1116,15 @@ London-North-Western-North	0100	004	EARLESTOWN	Platform Lengths Earlestown
 London-North-Western-North	0100	006	EARLESTOWN	Platform 2 Down 115 metres (126 yards)
 London-North-Western-North	0107	001	EARLESTOWN	Platform Lengths Earlestown
 London-North-Western-North	0107	002	EARLESTOWN	Platform 3 Up 8 Down 98m (107yards)
+London-North-Western-North	0109	004	BRYN	Platform Lengths Bryn
+London-North-Western-North	0109	005	BRYN	Up 89 metres (97 yards)
+London-North-Western-North	0109	006	BRYN	Down 96 metres (105 yards)
+London-North-Western-North	0109	007	BRYN	Platform Lengths Garswood
+London-North-Western-North	0109	008	BRYN	Up 87 metres (95 yards)
+London-North-Western-North	0109	009	BRYN	Down 87 metres (95 yards)
+London-North-Western-North	0109	014	GARSWOOD	Platform Lengths St Helens Central
+London-North-Western-North	0109	015	GARSWOOD	Up 160 metres (175 yards)
+London-North-Western-North	0109	016	GARSWOOD	Down 162 metres (177 yards)
 London-North-Western-North	0110	011	THATTO HEATH	Platform Lengths Thatto Heath
 London-North-Western-North	0110	013	THATTO HEATH	Up 86 metres (94 yards)
 London-North-Western-North	0110	015	THATTO HEATH	Down 86 metres (94 yards)
@@ -1116,6 +1199,24 @@ London-North-Western-North	0176	002	WREXHAM GENERAL	Platform Lengths Wrexham Gen
 London-North-Western-North	0176	003	WREXHAM GENERAL	Platform 1 198 metres (217 yards).
 London-North-Western-North	0176	004	WREXHAM GENERAL	Platform 2 197 metres (215 yards).
 London-North-Western-North	0176	005	WREXHAM GENERAL	Platform 3 152 metres (166 yards) (both directions).
+London-North-Western-North	0180	001	WREXHAM CENTRAL	Platform Lengtns. Wrexham Central
+London-North-Western-North	0180	002	WREXHAM CENTRAL	Platform Up a Down 52 m (57 yds)
+London-North-Western-North	0180	003	WREXHAM GENERAL	Platform Lengths Wrexham General
+London-North-Western-North	0180	004	WREXHAM GENERAL	Platform 4 Up 4 Down 60m (66 yds)
+London-North-Western-North	0180	005	GWERSYLLT	Platform Lengths Gwersyllt
+London-North-Western-North	0180	007	GWERSYLLT	Down 83m (91 yds)
+London-North-Western-North	0182	000	HAWARDEN	Platform Down 97m (106 yds)
+London-North-Western-North	0182	000	SHOTTON	Platform Lengins Shotton (High Level)
+London-North-Western-North	0182	000	SHOTTON	Platform Up 100m (109 yds)
+London-North-Western-North	0182	000	SHOTTON	Platform Down 101m (110 yds)
+London-North-Western-North	0182	000	HAWARDEN BRIDGE	Platform Up 91m (100 yds)
+London-North-Western-North	0182	000	HAWARDEN BRIDGE	Platform Down 91m (100 yds)
+London-North-Western-North	0182	002	BUCKLEY	Platform Lengths Buckley
+London-North-Western-North	0182	003	BUCKLEY	Platform Up 53m (58 yds)
+London-North-Western-North	0182	004	HAWARDEN	Platform Down 52m (57 yds)
+London-North-Western-North	0182	005	HAWARDEN	Platform Lengths Hawarden
+London-North-Western-North	0182	006	HAWARDEN	Platform Up 119m (130 yds)
+London-North-Western-North	0182	011	HAWARDEN BRIDGE	Platform Lengths Hawarden Bridge
 London-North-Western-North	0184	004	NESTON	Platform Lengths Neston
 London-North-Western-North	0184	006	NESTON	Platform Up 84m (92 yds)
 London-North-Western-North	0184	008	HESWALL	Platform Down 81m (89 yds)
@@ -1147,6 +1248,18 @@ London-North-Western-North	0193	009	TAL-Y-CAFN	Platform Lengths Tal-y-Cafn
 London-North-Western-North	0194	002	DOLGARROG	Platform Lengths Dolgarrog
 London-North-Western-North	0194	003	DOLGARROG	Platform Up 41m (45 yds)
 London-North-Western-North	0194	004	DOLGARROG	Platform Down 41m (45 yds)
+London-North-Western-North	0195	002	NORTH LLANRWST	Platform Lengths North Llanrwst
+London-North-Western-North	0195	003	NORTH LLANRWST	Platform Up m (143 yds)
+London-North-Western-North	0195	004	NORTH LLANRWST	Platform Down 126m (138 yds)
+London-North-Western-North	0195	005	LLANRWST	Platform Lengths Llanrwst
+London-North-Western-North	0195	006	LLANRWST	Platform Up 60m (66 yds)
+London-North-Western-North	0195	008	BETWS-Y-COED	Platform Lengths Betws-y-Coed
+London-North-Western-North	0196	001	PONT-Y-PANT	Platform Lengths Pont-y-Pant
+London-North-Western-North	0196	002	PONT-Y-PANT	Platform Up 98m (107yds)
+London-North-Western-North	0196	003	DOLWYDDELAN	Platform Down 98m (107yds)
+London-North-Western-North	0196	004	DOLWYDDELAN	Platform Lengths. Dolwyddelan
+London-North-Western-North	0196	005	ROMAN BRIDGE	Platform Up 91m (100 yds)
+London-North-Western-North	0196	007	ROMAN BRIDGE	Platform Lengths. Roman Bridge
 London-North-Western-North	0197	002	BLAENAU FFESTINIOG	the platform at Blaenau Ffestiniog station.
 London-North-Western-North	0197	003	BLAENAU FFESTINIOG	Platform Lengths Blaenau Ffestiniog
 London-North-Western-North	0197	004	BLAENAU FFESTINIOG	Platform Up 199m (218 yds)
@@ -1160,6 +1273,11 @@ London-North-Western-North	0204	007	NAVIGATION ROAD	Platform Up Down Main 121m (
 London-North-Western-North	0205	007	ALTRINCHAM	Platform Lengths Altrincham
 London-North-Western-North	0205	008	ALTRINCHAM	Platform 3 Up 167m (183 yds)
 London-North-Western-North	0205	009	ALTRINCHAM	Platform 4 Down 141m (1154 yds)
+London-North-Western-North	0206	001	HALE	Platform Lengths. Hale
+London-North-Western-North	0206	002	HALE	Platform Up T30m (142 yds)
+London-North-Western-North	0206	003	ASHLEY	Platform Down 126m (138 yds)
+London-North-Western-North	0206	004	ASHLEY	Platform Lengins Ashley
+London-North-Western-North	0206	005	MOBBERLEY	Platform Up T12m (122 yds)
 London-North-Western-North	0207	003	KNUTSFORD	Platform Lenaths Knutsford
 London-North-Western-North	0207	004	KNUTSFORD	Platform Up 132m (144 yds)
 London-North-Western-North	0207	005	PLUMLEY	Platform Down 145m (159 yds)
@@ -1226,6 +1344,14 @@ London-North-Western-North	0289	008	MORECAMBE	Platform 2. 143 metres (156 yards)
 London-North-Western-North	0291	009	BARE LANE	For Bare Lane platform lengths, see NW4011-001.
 London-North-Western-North	0292	009	MORECAMBE	Platform Lengths Heysham Port.
 London-North-Western-North	0292	010	MORECAMBE	Platform 3 64 metres (70 yards).
+London-North-Western-North	0293	002	OXENHOLME	Platform Lengths Oxenholme
+London-North-Western-North	0293	004	OXENHOLME	Platform 3 Up direction 117 metres (128 yards)
+London-North-Western-North	0293	005	OXENHOLME	Down direction 132 metres (144 yards)
+London-North-Western-North	0293	006	OXENHOLME	Turnback length 91 metres (100 yards)
+London-North-Western-North	0293	008	OXENHOLME	the platform at Oxenholme station.
+London-North-Western-North	0293	009	KENDAL	Platform Lengths. Kendal
+London-North-Western-North	0293	010	BURNESIDE	Platform Down 4 Up Windermere 83 metres (91 yds)
+London-North-Western-North	0293	011	BURNESIDE	Platform Lengths Burneside
 London-North-Western-North	0294	002	STAVELEY	Platform Down 8 Up Windermere 55m (60yrds)
 London-North-Western-North	0294	003	WINDERMERE	Platform Lengths Windermere
 London-North-Western-North	0294	004	WINDERMERE	Platform Down 8 Up Windermere 162m (177yrds)
@@ -1261,6 +1387,15 @@ London-North-Western-North	0308	014	ROOSE	Platform 3. 153 metres (167 yards) Per
 London-North-Western-North	0310	001	ASKAM	Platform Lengths Askam
 London-North-Western-North	0310	002	ASKAM	Up 61 metres (67 yards)
 London-North-Western-North	0310	003	ASKAM	Down 52 metres (57 yards)
+London-North-Western-North	0311	001	KIRKBY-IN-FURNESS	Platform Lengths Kirkby-In-Furness
+London-North-Western-North	0311	002	KIRKBY-IN-FURNESS	Up 76m (83 yards)
+London-North-Western-North	0311	003	KIRKBY-IN-FURNESS	Down 69m (75 yards)
+London-North-Western-North	0311	004	KIRKBY-IN-FURNESS	Platform Lengths Foxfield
+London-North-Western-North	0311	005	KIRKBY-IN-FURNESS	Up 79m (86 yards)
+London-North-Western-North	0311	006	KIRKBY-IN-FURNESS	Down 79m (86 yards)
+London-North-Western-North	0311	007	FOXFIELD	Platform Lengths Green Road
+London-North-Western-North	0311	008	FOXFIELD	Up 75m (82 yards)
+London-North-Western-North	0311	009	FOXFIELD	Down 75m (82 yards)
 London-North-Western-North	0312	001	MILLOM	Platform Lengths Millom
 London-North-Western-North	0312	002	MILLOM	Up 120m (131 yards)
 London-North-Western-North	0312	003	MILLOM	Down 122m (133 yards)
@@ -1270,6 +1405,15 @@ London-North-Western-North	0313	003	SILECROFT	Down 45m (49 yards)
 London-North-Western-North	0313	004	SILECROFT	Platform Lengths Bootle
 London-North-Western-North	0313	005	SILECROFT	Up 50m (55 yards)
 London-North-Western-North	0313	006	SILECROFT	Down 47m (51 yards)
+London-North-Western-North	0314	001	RAVENGLASS	Platform Lengths. Ravenglass
+London-North-Western-North	0314	002	RAVENGLASS	Up 94m (103 yards)
+London-North-Western-North	0314	003	RAVENGLASS	Down 93m (102 yards)
+London-North-Western-North	0314	004	RAVENGLASS	Platform Lengths Drigg
+London-North-Western-North	0314	005	RAVENGLASS	Up 66m (72 yards)
+London-North-Western-North	0314	006	RAVENGLASS	Down 84m (92 yards)
+London-North-Western-North	0314	007	DRIGG	Platform Lengths. Seascale
+London-North-Western-North	0314	008	DRIGG	Up 36m (39 yards)
+London-North-Western-North	0314	009	DRIGG	Down 57m (62 yards)
 London-North-Western-North	0315	002	SELLAFIELD	Platform Lengths Sellafield
 London-North-Western-North	0315	003	SELLAFIELD	Down 4 Up Loop 71m (78 yards)
 London-North-Western-North	0315	004	SELLAFIELD	Down 50m (55 yards)
@@ -1312,6 +1456,12 @@ London-North-Western-North	0324	001	DALSTON	Platform Lengths Dalston
 London-North-Western-North	0324	002	DALSTON	Platform Up 80m (87 yds)
 London-North-Western-North	0324	003	DALSTON	Platform Down 75m (82 yds)
 London-North-Western-North	0352	002	SANDBACH	USDP. Up 4 Down Platform
+London-North-Western-North	0354	008	ALDERLEY EDGE	Platform Lengths Alderley Edge
+London-North-Western-North	0354	010	ALDERLEY EDGE	Platform 1 128 metres (140 yards)
+London-North-Western-North	0354	012	ALDERLEY EDGE	Platform 2 172 metres (188 yards)
+London-North-Western-North	0354	033	HABD	Platform Lengths Wilmslow
+London-North-Western-North	0354	035	HABD	Platform 3 320 metres (350 yards)
+London-North-Western-North	0354	037	HABD	Platform 4 275 metres (322 yards)
 London-North-Western-North	0355	001	HANDFORTH	Platform Lengths. Handforth
 London-North-Western-North	0355	002	HANDFORTH	Up 165 metres (180 yards)
 London-North-Western-North	0355	003	HANDFORTH	Down 165 metres (180 yards)
@@ -1331,6 +1481,19 @@ London-North-Western-North	0361	032	MANCHESTER PICCADILLY	Up 277m (303 yards)
 London-North-Western-North	0361	034	MANCHESTER PICCADILLY	Down 277m (303 yards)
 London-North-Western-North	0361	036	MANCHESTER PICCADILLY	Up 265m (290 yards)
 London-North-Western-North	0361	038	MANCHESTER PICCADILLY	Down 266m (291 yards)
+London-North-Western-North	0362	003	WILMSLOW	Wilmslow Platform 1 and Styal Junction.
+London-North-Western-North	0362	006	WILMSLOW	Platform Lengths Wilmslow
+London-North-Western-North	0362	007	STYAL	Platform 1 Down direction 302 metres (330 yards)
+London-North-Western-North	0362	008	STYAL	Up direction 266 metres (291 yards)
+London-North-Western-North	0362	009	STYAL	Platform 2 Up direction 222 metres (243 yards)
+London-North-Western-North	0362	010	STYAL	Down direction 222 metres (243 yards)
+London-North-Western-North	0362	012	STYAL	Up and Down Styal lines between 4m 07ch and
+London-North-Western-North	0362	015	STYAL	Platform Lengths Styal
+London-North-Western-North	0362	016	STYAL	Up 166 metres (182 yards)
+London-North-Western-North	0362	017	STYAL	Down 165 metres (180 yards)
+London-North-Western-North	0362	018	HEALD GREEN	Platform Lengths Heald Green
+London-North-Western-North	0362	019	HEALD GREEN	Up 142 metres (155 yards)
+London-North-Western-North	0362	020	HEALD GREEN	Down 142 metres (155 yards)
 London-North-Western-North	0365	001	MANCHESTER AIRPORT	Platforms 5 and 6, Outbound and Inbound lines are
 London-North-Western-North	0366	012	NORTON BRIDGE	Platform length 87 metres (95 yards).
 London-North-Western-North	0367	007	STONE	Platform Lengths Stone
@@ -1363,6 +1526,12 @@ London-North-Western-North	0377	002	MACCLESFIELD	USDPLUp 4 Down Platform line
 London-North-Western-North	0379	005	CHEADLE HULME	Platform Lengths Cheadle Hulme
 London-North-Western-North	0379	006	CHEADLE HULME	Platform 3 121 metres (132 yards).
 London-North-Western-North	0379	007	CHEADLE HULME	Platform 4 183 metres (200 yards).
+London-North-Western-North	0383	001	REDDISH SOUTH	Platform Lengths Reddish South
+London-North-Western-North	0383	006	REDDISH SOUTH	Platform Lengths Denton
+London-North-Western-North	0383	007	REDDISH SOUTH	Up 59m (65yards)
+London-North-Western-North	0383	008	REDDISH SOUTH	Down 59m (65yards)
+London-North-Western-North	0383	009	DENTON	Platform Lengths Guide Bridge
+London-North-Western-North	0383	010	DENTON	Down Bi-Di 146m (160yards)
 London-North-Western-North	0386	002	HADFIELD	Platform Lengths Hadfield
 London-North-Western-North	0386	005	HADFIELD	Platform Lengths Dinting Platform 1 108m (118 yards)
 London-North-Western-North	0386	006	DINTING	Platform 1
@@ -1445,6 +1614,23 @@ London-North-Western-North	0440	014	SALFORD CENTRAL	0.0.U. - platforms Out Of Us
 London-North-Western-North	0440	016	SALFORD CENTRAL	Down Salford to Om 67ch
 London-North-Western-North	0440	017	SALFORD CENTRAL	Up Salford from Om 71ch
 London-North-Western-North	0443	010	SALFORD CENTRAL	0.0.U. - platforms Out Of Use.
+London-North-Western-North	0446	004	SALFORD CRESCENT	Platform Lengths Swinton
+London-North-Western-North	0446	005	SALFORD CRESCENT	Up 97 metres (106 yards)
+London-North-Western-North	0446	006	SALFORD CRESCENT	Down 97 metres (106 yards)
+London-North-Western-North	0446	007	SWINTON	Platform Lengths Moorside
+London-North-Western-North	0446	008	SWINTON	Up 109 metres (119 yards)
+London-North-Western-North	0446	009	SWINTON	Down 110 metres (120 yards)
+London-North-Western-North	0448	004	HINDLEY	Platform Lengths Hindley
+London-North-Western-North	0448	006	HINDLEY	Up 99m (108yards)
+London-North-Western-North	0448	008	HINDLEY	Down 107m (117yards)
+London-North-Western-North	0448	012	HINDLEY	Down Atherton / Down Hindley line
+London-North-Western-North	0448	016	HINDLEY	Platform Lengths. Ince
+London-North-Western-North	0448	018	HINDLEY	Up 124m (136yards)
+London-North-Western-North	0448	020	HINDLEY	Down 124m (136yards)
+London-North-Western-North	0448	021	INCE	Platform Lengths Wigan Wallgate
+London-North-Western-North	0448	022	INCE	Up 182 metres (199 yards) Permissive PP-A
+London-North-Western-North	0448	023	INCE	Down 192 metres (210 yards) Permissive PP-A
+London-North-Western-North	0448	024	INCE	Bay platform 82 metres (90 yards) Permissive PP
 London-North-Western-North	0449	003	GATHURST	Platform Lengths Gathurst
 London-North-Western-North	0449	004	GATHURST	Up 118m (129yards)
 London-North-Western-North	0449	005	GATHURST	Down 117m (128yards)
@@ -1497,6 +1683,16 @@ London-North-Western-North	0457	003	PEMBERTON	Down 106 metres (116 yards)
 London-North-Western-North	0457	004	PEMBERTON	Platform Lengths Orrell
 London-North-Western-North	0457	005	PEMBERTON	Up 54 metres (59 yards)
 London-North-Western-North	0457	006	PEMBERTON	Down 67 metres (73 yards)
+London-North-Western-North	0458	002	UPHOLLAND	Platform Lengths Upholland
+London-North-Western-North	0458	004	UPHOLLAND	Up 46 metres (50 yards)
+London-North-Western-North	0458	006	UPHOLLAND	Down 68 metres (74 yards)
+London-North-Western-North	0458	008	UPHOLLAND	Platform Lengths Rainford
+London-North-Western-North	0458	010	UPHOLLAND	Up 51 metres (56 yards)
+London-North-Western-North	0458	012	UPHOLLAND	Down 72 metres (79 yards)
+London-North-Western-North	0458	014	RAINFORD	Platform Lengths Kirkby (Single line to Rainford)
+London-North-Western-North	0458	016	RAINFORD	Up 4 Down 114 metres (125 yards) GSM-R
+London-North-Western-North	0458	017	RAINFORD	Down End of GSM-R area at 29m 41ch A
+London-North-Western-North	0458	018	RAINFORD	Up Start of GSM-R area at 29m 41ch
 London-North-Western-North	0475	011	MANCHESTER VICTORIA	Platform lengths Manchester Victoria.
 London-North-Western-North	0475	017	MANCHESTER VICTORIA	Up 4 Down 254 metres (278 yards).
 London-North-Western-North	0475	019	MANCHESTER VICTORIA	Up 4 Down 224 metres (245 yards).
@@ -1528,12 +1724,23 @@ London-North-Western-North	0484	003	TODMORDEN	Platform 1 Up 121 metres (132 yard
 London-North-Western-North	0484	004	TODMORDEN	Platform 2 Down 121 metres (132 yards).
 London-North-Western-North	0491	005	CROSTON	Platform Lengths Croston
 London-North-Western-North	0491	006	CROSTON	Platform Up 8 Down 76m (83 yds)
+London-North-Western-North	0492	002	RUFFORD	Platform lengths Rufford
+London-North-Western-North	0492	003	RUFFORD	Platform Up 60m (66yds)
+London-North-Western-North	0492	004	BURSCOUGH JUNCTION	Platform Down 75m (82 yds)
+London-North-Western-North	0492	005	ORMSKIRK	Platform Lengths Burscough Jn
+London-North-Western-North	0492	007	ORMSKIRK	Platform Lengths Ormskirk
 London-North-Western-North	0494	001	LOSTOCK HALL	Platform Lengths Lostock Hall
 London-North-Western-North	0494	002	LOSTOCK HALL	Up 83m (91 yards)
 London-North-Western-North	0494	003	LOSTOCK HALL	Down 83m (91 yards)
 London-North-Western-North	0495	001	BAMBER BRIDGE	Platform Lengths Bamber Bridge
 London-North-Western-North	0495	002	BAMBER BRIDGE	Platform Up 75m (82 yds)
 London-North-Western-North	0495	003	BAMBER BRIDGE	Platform Down 79m (86 yds)
+London-North-Western-North	0496	005	PLEASINGTON	Platform Lengths Pleasington
+London-North-Western-North	0496	006	PLEASINGTON	Platform Up 72m (79 yds)
+London-North-Western-North	0496	007	CHERRY TREE	Platform Down 77m (84 yds)
+London-North-Western-North	0496	008	CHERRY TREE	Platform Lengths. Cherry Tree
+London-North-Western-North	0496	009	MILL HILL	Platform Up 73m (80 yds)
+London-North-Western-North	0496	011	MILL HILL	Platform Lengths. Mill Hill
 London-North-Western-North	0497	004	BLACKBURN	Platform Lengths Blackburn
 London-North-Western-North	0498	004	RISHTON	Platform Lengths Rishton
 London-North-Western-North	0498	005	RISHTON	Platform Up 65m (71 yds)
@@ -1587,6 +1794,15 @@ London-North-Western-North	0545	011	LIVERPOOL SOUTH PARKWAY	Platform 6 130m (142
 London-North-Western-North	0545	015	CRESSINGTON	Platform Lengths Cressington
 London-North-Western-North	0545	016	CRESSINGTON	Up 128m (140 yards)
 London-North-Western-North	0545	017	CRESSINGTON	Down 128m (140 yards)
+London-North-Western-North	0546	001	AIGBURTH	Platform Lengths. Aigburth
+London-North-Western-North	0546	002	AIGBURTH	Up 128m (140 yards)
+London-North-Western-North	0546	003	AIGBURTH	Down 128m (140 yards)
+London-North-Western-North	0546	007	AIGBURTH	Platform Lengths St. Michaels
+London-North-Western-North	0546	008	AIGBURTH	Up 130m (142 yards)
+London-North-Western-North	0546	009	AIGBURTH	Down 130m (142 yards)
+London-North-Western-North	0546	010	ST. MICHAELS	Platform Lengths Brunswick
+London-North-Western-North	0546	011	ST. MICHAELS	Up 132m (144 yards)
+London-North-Western-North	0546	012	ST. MICHAELS	Down 132m (144 yards)
 London-North-Western-North	0548	008	LIVERPOOL CENTRAL	Platform Lengths Liverpool Central
 London-North-Western-North	0548	009	LIVERPOOL CENTRAL	Platform 1
 London-North-Western-North	0549	005	MOORFIELDS	Platform Lengths Moorfields
@@ -1606,6 +1822,15 @@ London-North-Western-North	0552	005	BOOTLE NEW STRAND	Down 151m (165 yards)
 London-North-Western-North	0552	011	BOOTLE NEW STRAND	Platform Lengths Seaforth and Litherland
 London-North-Western-North	0552	012	BOOTLE NEW STRAND	Up 127m (139 yards)
 London-North-Western-North	0552	013	BOOTLE NEW STRAND	Down 126m (138 yards)
+London-North-Western-North	0553	001	WATERLOO	Platform Lengths Waterloo
+London-North-Western-North	0553	002	WATERLOO	Up 122m (13 yards)
+London-North-Western-North	0553	003	WATERLOO	Down 120m (131 yards)
+London-North-Western-North	0553	004	WATERLOO	Platform Lengths Blundellsands Crosby
+London-North-Western-North	0553	005	WATERLOO	Up 126m (138 yards)
+London-North-Western-North	0553	006	WATERLOO	Down 134m (147 yards)
+London-North-Western-North	0553	010	BLUNDELLSANDS 8 CROSBY	Platform Lengths Hall Road
+London-North-Western-North	0553	011	BLUNDELLSANDS 8 CROSBY	Up 126m (138 yards)
+London-North-Western-North	0553	012	BLUNDELLSANDS 8 CROSBY	Down 150m (164 yards)
 London-North-Western-North	0555	001	HILLSIDE	Platform Lengths Hillside
 London-North-Western-North	0555	002	HILLSIDE	Up 137m (150 yards)
 London-North-Western-North	0555	003	HILLSIDE	Down 137m (150 yards)
@@ -1624,6 +1849,27 @@ London-North-Western-North	0559	010	WALTON	Down 140m (153 yards)
 London-North-Western-North	0559	011	WALTON	Platform lengths Orrell Park
 London-North-Western-North	0559	012	WALTON	Up 147m (161 yards)
 London-North-Western-North	0559	013	WALTON	Down 147m (161 yards)
+London-North-Western-North	0560	001	AINTREE	Platform Lengths Aintree
+London-North-Western-North	0560	002	AINTREE	Up 161m (176 yards)
+London-North-Western-North	0560	003	AINTREE	Down 117m (128 yards)
+London-North-Western-North	0560	009	AINTREE	Platform Lengths Old Roan
+London-North-Western-North	0560	010	AINTREE	Up 128m (140 yards)
+London-North-Western-North	0560	011	AINTREE	Down 129m (141 yards)
+London-North-Western-North	0560	012	OLD ROAN	Platform Lengths Maghull
+London-North-Western-North	0560	013	OLD ROAN	Up 153m (167 yards)
+London-North-Western-North	0560	014	OLD ROAN	Down 142m (155 yards)
+London-North-Western-North	0564	008	RICE LANE	Platform Lengths Rice Lane
+London-North-Western-North	0564	010	RICE LANE	Up 128m (140 yards)
+London-North-Western-North	0564	012	RICE LANE	Down 140m (153 yards)
+London-North-Western-North	0564	014	RICE LANE	Platform Lengths Fazakerley
+London-North-Western-North	0564	016	RICE LANE	Up 128m (140 yards)
+London-North-Western-North	0564	018	RICE LANE	Down 140m (153 yards)
+London-North-Western-North	0564	020	FAZAKERLEY	Platform Lengths Kirkby
+London-North-Western-North	0564	022	FAZAKERLEY	Up 4 Down
+London-North-Western-North	0565	006	JAMES STREET	Platform Lengths James Street
+London-North-Western-North	0565	007	JAMES STREET	Platform 1
+London-North-Western-North	0565	009	MOORFIELDS	Platform Lengths Moorfields
+London-North-Western-North	0565	011	LIVERPOOL LIME STREET	Platform Lengths Liverpool Lime Street
 London-North-Western-North	0566	006	JAMES STREET	Platform Lengths James Street
 London-North-Western-North	0566	007	JAMES STREET	Platform 2 121m (141 yards)
 London-North-Western-North	0566	009	JAMES STREET	Platform 3 121m (141 yards)
@@ -1644,6 +1890,15 @@ London-North-Western-North	0570	003	BIDSTON	Down 119m (130 yards)
 London-North-Western-North	0570	004	BIDSTON	Platform Lengths Leasowe
 London-North-Western-North	0570	005	BIDSTON	Up 127m (139 yards)
 London-North-Western-North	0570	006	BIDSTON	Down 128m (140 yards)
+London-North-Western-North	0571	001	MORETON	Platform Lengths. Moreton
+London-North-Western-North	0571	002	MORETON	Up 127m (139 yards)
+London-North-Western-North	0571	003	MORETON	Down 126m (138 yards)
+London-North-Western-North	0571	004	MORETON	Platform Lengths Meols
+London-North-Western-North	0571	005	MORETON	Up 127m (139 yards)
+London-North-Western-North	0571	006	MORETON	Down 126m (138 yards)
+London-North-Western-North	0571	007	MEOLS	Platform Lengths Manor Road
+London-North-Western-North	0571	008	MEOLS	Up 128m (140 yards)
+London-North-Western-North	0571	009	MEOLS	Down 128m (140 yards)
 London-North-Western-North	0572	001	HOYLAKE	Platform Lengths Hoylake
 London-North-Western-North	0572	002	HOYLAKE	Up 126m (138 yards)
 London-North-Western-North	0572	003	HOYLAKE	Down 127m (139 yards)
@@ -1658,6 +1913,15 @@ London-North-Western-North	0574	005	GREEN LANE	Down 126m (138 yards)
 London-North-Western-North	0574	007	GREEN LANE	Down and Up Chester lines between 3m 00ch
 London-North-Western-North	0574	011	GREEN LANE	Platform Lengths Rock Ferry
 London-North-Western-North	0574	012	ROCK FERRY	Platform 1
+London-North-Western-North	0576	001	BROMBOROUGH	Platform Lengths Bromborough
+London-North-Western-North	0576	002	BROMBOROUGH	Up 130m (142 yards)
+London-North-Western-North	0576	003	BROMBOROUGH	Down 130m (142 yards)
+London-North-Western-North	0576	004	BROMBOROUGH	Platform Lengths Eastham Rake
+London-North-Western-North	0576	005	BROMBOROUGH	Up 131m (143 yards)
+London-North-Western-North	0576	006	BROMBOROUGH	Down 131m (143 yards)
+London-North-Western-North	0576	008	BROMBOROUGH	Down and Up Chester lines between 3m 00ch
+London-North-Western-North	0576	010	EASTHAM RAKE	Platform Lengths Hooton
+London-North-Western-North	0576	013	HOOTON	Platform 2
 London-North-Western-North	0577	003	WALLASEY VILLAGE	Platform Lengths Wallasey Village
 London-North-Western-North	0577	004	WALLASEY VILLAGE	Up 129m (141 yards)
 London-North-Western-North	0577	005	WALLASEY VILLAGE	Down 128m (140 yards)
@@ -1713,6 +1977,21 @@ London-North-Western-North	0624	002	HYDE NORTH	Platform Up 120m (131 yds)
 London-North-Western-North	0624	003	HYDE NORTH	Platform Down 121m 142 yds)
 London-North-Western-North	0629	011	BUXTON	Platform Up 81m (89 yds)
 London-North-Western-North	0629	012	DOVE HOLES	Platform Down 87m (95 yds)
+London-North-Western-North	0630	005	CHAPEL-EN-LE-FRITH	Platform Lengths Chapel-en-le-Frith
+London-North-Western-North	0630	006	CHAPEL-EN-LE-FRITH	Platform Up 86m (94 yds)
+London-North-Western-North	0630	007	WHALEY BRIDGE	Platform Down 92m (101 yds)
+London-North-Western-North	0630	008	WHALEY BRIDGE	Platform lengths Whaley Bridge
+London-North-Western-North	0630	009	FURNESS VALE	Platform Up 123m (135 yds)
+London-North-Western-North	0630	011	FURNESS VALE	Platform Lengths Furness Vale
+London-North-Western-North	0631	004	NEW MILLS NEWTOWN	Platform Up 102m (112 yds)
+London-North-Western-North	0631	005	DISLEY	Platform Down 101m (110 yds)
+London-North-Western-North	0631	011	DISLEY	Platform Lengths Disley
+London-North-Western-North	0631	012	MIDDLEWOOD	Platform Up 137m (150 yds)
+London-North-Western-North	0631	014	MIDDLEWOOD	Platform Lengths Middlewood
+London-North-Western-North	0651	003	GARGRAVE	Platform Lengths Hellifield
+London-North-Western-North	0651	004	HELLIFIELD	Platform Up 103m (113 yards)
+London-North-Western-North	0651	005	LONG PRESTON	Platform Down 132m (144 yards)
+London-North-Western-North	0651	006	LONG PRESTON	Platform Lengths Long Preston
 London-North-Western-North	0652	002	SETTLE	Platform Lengths. Settle
 London-North-Western-North	0652	003	SETTLE	Platform Up 98m (107 yds)
 London-North-Western-North	0652	004	SETTLE	Down 98m (107 yds)
@@ -1873,9 +2152,27 @@ London-North-Western-South	0134	016	HARLESDEN	Up - 123 metres
 London-North-Western-South	0134	017	HARLESDEN	Platform Lengths. Stonebridge Park
 London-North-Western-South	0134	018	HARLESDEN	Down - 125 metres
 London-North-Western-South	0134	019	HARLESDEN	Up - 125 metres
+London-North-Western-South	0135	013	WEMBLEY CENTRAL	Platform Lengths Wembley Central
+London-North-Western-South	0135	014	WEMBLEY CENTRAL	Down - 127 metres
+London-North-Western-South	0135	015	WEMBLEY CENTRAL	Up - 127 metres
+London-North-Western-South	0135	016	WEMBLEY CENTRAL	Platform Lengths. North Wembley
+London-North-Western-South	0135	017	WEMBLEY CENTRAL	Down - 123 metres
+London-North-Western-South	0135	018	WEMBLEY CENTRAL	Up - 123 metres
+London-North-Western-South	0135	019	NORTH WEMBLEY	Platform Lengths South Kenton
+London-North-Western-South	0135	020	NORTH WEMBLEY	Down - 121 metres
+London-North-Western-South	0135	021	NORTH WEMBLEY	Up - 121 metres
 London-North-Western-South	0136	015	KENTON	Platform Lengths Kenton
 London-North-Western-South	0136	016	KENTON	Down - 121 metres
 London-North-Western-South	0136	017	KENTON	Up - 121 metres
+London-North-Western-South	0137	013	HEADSTONE LANE	Platform Lengths Headstone Lane
+London-North-Western-South	0137	014	HEADSTONE LANE	Down - 128 metres
+London-North-Western-South	0137	015	HEADSTONE LANE	Up - 128 metres
+London-North-Western-South	0137	016	HEADSTONE LANE	Platform Lengths Hatch End
+London-North-Western-South	0137	017	HEADSTONE LANE	Down - 137 metres
+London-North-Western-South	0137	018	HEADSTONE LANE	Up - 137 metres
+London-North-Western-South	0137	019	HATCH END	Platform Lengths Carpenders Park
+London-North-Western-South	0137	020	HATCH END	Down - 128 metres
+London-North-Western-South	0137	021	HATCH END	Up - 128 metres
 London-North-Western-South	0138	013	BUSHEY	Platform Lengths Bushey
 London-North-Western-South	0138	014	BUSHEY	Down (1) - 134 metres
 London-North-Western-South	0138	015	BUSHEY	Up (2) - 146 metres
@@ -1891,6 +2188,13 @@ London-North-Western-South	0140	003	WATFORD JUNCTION	Platform 11
 London-North-Western-South	0154	001	BLETCHLEY	Platform Lengths. Bletchley
 London-North-Western-South	0154	002	BLETCHLEY	Platform 5 262 metres.
 London-North-Western-South	0154	003	BLETCHLEY	Platform 6. 129 metres.
+London-North-Western-South	0157	003	RIDGMONT	Platform Lengths
+London-North-Western-South	0157	004	RIDGMONT	Ridgmont - Down 61 metres
+London-North-Western-South	0157	006	RIDGMONT	- Up 61 metres
+London-North-Western-South	0157	007	RIDGMONT	Lidlington - Down 66 metres
+London-North-Western-South	0157	009	RIDGMONT	- Up 51 metres
+London-North-Western-South	0157	010	RIDGMONT	Millbrook - Down 73 metres
+London-North-Western-South	0157	012	RIDGMONT	- Up 73 metres
 London-North-Western-South	0158	001	STEWARTBY	Platform Lengths Stewartby
 London-North-Western-South	0158	002	STEWARTBY	Down - 37 metres
 London-North-Western-South	0158	003	STEWARTBY	Up - 51 metres
@@ -1927,6 +2231,14 @@ London-North-Western-South	0192	024	BIRMINGHAM INTERNATIONAL	Platform 2 283 metr
 London-North-Western-South	0192	026	BIRMINGHAM INTERNATIONAL	Platform 3. 304 metres (332 yards)
 London-North-Western-South	0192	028	BIRMINGHAM INTERNATIONAL	Platform 4 303 metres (331 yards)
 London-North-Western-South	0192	030	BIRMINGHAM INTERNATIONAL	Platform 5. 303 metres (331 yards)
+London-North-Western-South	0193	003	MARSTON GREEN	Platform lengths Marston Green
+London-North-Western-South	0193	004	MARSTON GREEN	Platform 1 168 metres (183 yards)
+London-North-Western-South	0193	005	MARSTON GREEN	Platform 2 167 metres (182 yards)
+London-North-Western-South	0193	006	LEA HALL	Platform lengths Lea Hall
+London-North-Western-South	0193	007	STECHFORD	Platform 1 183 metres (200 yards)
+London-North-Western-South	0193	008	STECHFORD	Platform 2 181 metres (198 yards)
+London-North-Western-South	0193	013	STECHFORD	Platform lengths Stechford
+London-North-Western-South	0193	015	STECHFORD	Platform 2 170 metres (186 yards)
 London-North-Western-South	0200	008	SMETHWICK ROLFE STREET	Platform lengths Smethwick Rolfe Street
 London-North-Western-South	0200	009	SMETHWICK ROLFE STREET	Platform 1 152 metres (166 yards)
 London-North-Western-South	0200	010	SMETHWICK GALTON BRIDGE	Platform 2. 136 metres (149 yards)
@@ -1984,6 +2296,13 @@ London-North-Western-South	0226	003	BROMSGROVE	Platforms 1 -150 metres (164 yard
 London-North-Western-South	0226	004	BROMSGROVE	Platforms 2 -150 metres (164 yards)
 London-North-Western-South	0226	005	BROMSGROVE	Platforms 3 -150 metres (164 yards)
 London-North-Western-South	0226	006	BROMSGROVE	Platforms 4 -150 metres (164 yards)
+London-North-Western-South	0233	001	BARNT GREEN	Platform lengths Barnt Green
+London-North-Western-South	0233	002	BARNT GREEN	Platform 3. 151 metres (165 yards)
+London-North-Western-South	0233	003	BARNT GREEN	Platform 4 187 metres (205 yards)
+London-North-Western-South	0233	011	ALVECHURCH	Platform lengths Alvechurch
+London-North-Western-South	0233	012	REDDITCH	Platform 1 149 metres (163 yards)
+London-North-Western-South	0233	014	REDDITCH	Platform length Redditch
+London-North-Western-South	0233	015	REDDITCH	161 metres (176 yards)
 London-North-Western-South	0234	002	STECHFORD	Platform Lengths Stechford
 London-North-Western-South	0234	003	STECHFORD	Platform 3 - 134 metres (147 yards)
 London-North-Western-South	0238	001	DUDDESTON	Platform lengths Duddeston
@@ -2018,6 +2337,15 @@ London-North-Western-South	0252	010	FOUR OAKS	Platform 2 - 148 metres
 London-North-Western-South	0252	011	FOUR OAKS	Platform 3 - 159 metres
 London-North-Western-South	0252	013	FOUR OAKS	Down direction trains can turnback
 London-North-Western-South	0252	014	FOUR OAKS	in Platform 2 at Four Oaks.
+London-North-Western-South	0253	003	BUTLERS LANE	Platform lengths Butlers Lane
+London-North-Western-South	0253	004	BUTLERS LANE	Platform 1 - 151 metres
+London-North-Western-South	0253	005	BUTLERS LANE	Platform 2 - 151 metres
+London-North-Western-South	0253	006	BLAKE STREET	Platform lengths Blake Street
+London-North-Western-South	0253	007	SHENSTONE	Platform 1 - 150 metres
+London-North-Western-South	0253	008	SHENSTONE	Platform 2 - 149 metres
+London-North-Western-South	0253	009	SHENSTONE	Down direction trains can turnback
+London-North-Western-South	0253	011	SHENSTONE	Platform lengths Shenstone
+London-North-Western-South	0253	013	SHENSTONE	Platform 2 - 151 metres
 London-North-Western-South	0254	003	LICHFIELD CITY	Platform lengths Lichfield City
 London-North-Western-South	0254	004	LICHFIELD CITY	Platform 1 - 149 metres
 London-North-Western-South	0254	005	LICHFIELD CITY	Platform 2 - 225 metres
@@ -2032,6 +2360,12 @@ London-North-Western-South	0259	008	WALSALL	Platform 3 - 177 metres (194 yards)
 London-North-Western-South	0260	001	BLOXWICH	Platform lengths Bloxwich
 London-North-Western-South	0260	002	BLOXWICH	Platform 1 - 72 metres (79 yards)
 London-North-Western-South	0260	003	BLOXWICH	Platform 2 - 72 metres (79 yards)
+London-North-Western-South	0261	001	BLOXWICH NORTH	Platform lengths Bloxwich North
+London-North-Western-South	0261	002	BLOXWICH NORTH	Platform 1 - 77 metres (84 yards)
+London-North-Western-South	0261	003	BLOXWICH NORTH	Platform 2 - 77 metres (84 yards)
+London-North-Western-South	0261	004	LANDYWOOD	Platform lengths Landywood
+London-North-Western-South	0261	005	WYRLEY 8 CHESLYN HAY,	Platform 1 - 72 metres (79 yards)
+London-North-Western-South	0261	006	WYRLEY 8 CHESLYN HAY,	Platform 2 - 72 metres (79 yards)
 London-North-Western-South	0262	002	CANNOCK	Platform lengths Cannock
 London-North-Western-South	0262	003	CANNOCK	Platform 1 - 72 metres (79 yards)
 London-North-Western-South	0262	004	CANNOCK	Platform 2 - 72 metres (79 yards)
@@ -2082,6 +2416,14 @@ London-North-Western-South	0280	020	DORRIDGE	Down Dorridge between 118m 00ch and
 London-North-Western-South	0280	021	DORRIDGE	Up Dorridge between 120m 00ch and 118m 60ch
 London-North-Western-South	0280	022	WIDNEY MANOR	Platform lengths Widney Manor
 London-North-Western-South	0280	024	WIDNEY MANOR	Platform 2 - 142 metres (155 yards)
+London-North-Western-South	0281	004	SOLIHULL	Platform lengths Solihull
+London-North-Western-South	0281	005	SOLIHULL	Platform 1 - 145 metres (159 yards)
+London-North-Western-South	0281	006	SOLIHULL	Platform 2 - 145 metres (159 yards)
+London-North-Western-South	0281	010	OLTON	Platform lengths Olton
+London-North-Western-South	0281	011	ACOCKS GREEN	Platform 1 - 106 metres (116 yards)
+London-North-Western-South	0281	012	ACOCKS GREEN	Platform 2 - 106 metres (116 yards)
+London-North-Western-South	0281	013	ACOCKS GREEN	Platform lengths Acocks Green
+London-North-Western-South	0281	015	ACOCKS GREEN	Platform 2 - 153 metres (167 yards)
 London-North-Western-South	0282	023	TYSELEY	Platform lengths Tyseley
 London-North-Western-South	0282	024	TYSELEY	Platform 1 - 152 metres (166 yards)
 London-North-Western-South	0282	025	TYSELEY	Platform 2 - 152 metres (166 yards)
@@ -2098,6 +2440,21 @@ London-North-Western-South	0293	007	BEDWORTH	Platform 1 = 76 metres
 London-North-Western-South	0293	008	BEDWORTH	Platform 2 77 metres
 London-North-Western-South	0293	009	BERMUDA PARK	Platform lengths Bermuda Park
 London-North-Western-South	0293	011	BERMUDA PARK	Platform 2 = 77 metres
+London-North-Western-South	0294	007	HATTON	Platform lengths Hatton
+London-North-Western-South	0294	008	HATTON	Platform 3 - 134 metres
+London-North-Western-South	0294	009	CLAVERDON	Platform lengths Claverdon
+London-North-Western-South	0294	010	CLAVERDON	- 138 metres
+London-North-Western-South	0294	012	BEARLEY	Platform lengths Bearley
+London-North-Western-South	0294	013	BEARLEY	- 61 metres
+London-North-Western-South	0299	002	DANZEY	Platform lengths Danzey
+London-North-Western-South	0299	003	DANZEY	Down Main-154 metres
+London-North-Western-South	0299	004	DANZEY	Up Main-153 metres
+London-North-Western-South	0299	005	DANZEY	Platform lengths Henley-In-Arden
+London-North-Western-South	0299	006	DANZEY	Down Main-153 metres
+London-North-Western-South	0299	007	DANZEY	Up Main-153 metres
+London-North-Western-South	0299	008	HENLEY-IN-ARDEN	Platform lengths Wootton Wawen
+London-North-Western-South	0299	009	HENLEY-IN-ARDEN	Down Main-122 metres
+London-North-Western-South	0299	010	HENLEY-IN-ARDEN	Up Main-122 metres
 London-North-Western-South	0300	001	HARTLEBURY	Platform Lengths Hartlebury
 London-North-Western-South	0300	002	HARTLEBURY	Down Kidderminster. 92 metres.
 London-North-Western-South	0300	003	HARTLEBURY	Up Kidderminster. 92 metres.
@@ -2180,9 +2537,30 @@ London-North-Western-South	0343	004	MARYLEBONE	3-245 metres
 London-North-Western-South	0343	005	MARYLEBONE	4-115 metres
 London-North-Western-South	0343	006	MARYLEBONE	5-215 metres
 London-North-Western-South	0343	007	MARYLEBONE	6-216 metres
+London-North-Western-South	0345	007	WEMBLEY STADIUM	Platform lengths Wembley Stadium
+London-North-Western-South	0345	009	WEMBLEY STADIUM	Down Main. 189 mefres
+London-North-Western-South	0345	011	WEMBLEY STADIUM	Up Main 189 metres
+London-North-Western-South	0345	013	WEMBLEY STADIUM	Platform lengths Sudbury Harrow Road
+London-North-Western-South	0345	015	WEMBLEY STADIUM	Down Main 75 metres
+London-North-Western-South	0345	017	WEMBLEY STADIUM	Up Main 75 metres
+London-North-Western-South	0345	019	SUDBURY HILL HARROW	Platform lengths Sudbury Hill Harrow
+London-North-Western-South	0345	021	SUDBURY HILL HARROW	Down Main 80 metres
+London-North-Western-South	0345	023	SUDBURY HILL HARROW	Up Main 80 metres
+London-North-Western-South	0345	025	NORTHOLT PARK	Platform lengths Northolt Park
+London-North-Western-South	0345	027	NORTHOLT PARK	Down Main 123 metres
+London-North-Western-South	0345	029	NORTHOLT PARK	Up Main 123 metres
 London-North-Western-South	0346	009	SOUTH RUISLIP	Platform lengths South Ruislip
 London-North-Western-South	0346	010	SOUTH RUISLIP	Down Northolt Loop. 123 metres
 London-North-Western-South	0346	011	SOUTH RUISLIP	Up Main 141 metres
+London-North-Western-South	0347	010	WEST RUISLIP	Platform lengths West Ruislip
+London-North-Western-South	0347	012	WEST RUISLIP	Down Main 141 metres
+London-North-Western-South	0347	014	WEST RUISLIP	Up West Ruislip Loop 164 metres
+London-North-Western-South	0347	023	WEST RUISLIP	Platform lengths Denham
+London-North-Western-South	0347	025	WEST RUISLIP	Down Main 191 metres
+London-North-Western-South	0347	027	WEST RUISLIP	Up Main 165 metres
+London-North-Western-South	0347	029	DENHAM	Platform lengths Denham Golf Club
+London-North-Western-South	0347	031	DENHAM	Down Main 165 metres
+London-North-Western-South	0347	033	DENHAM	Up Main 167 metres
 London-North-Western-South	0348	007	GERRARDS CROSS	Platform lengths Gerrards Cross
 London-North-Western-South	0348	009	GERRARDS CROSS	Down Main 167 metres
 London-North-Western-South	0348	011	GERRARDS CROSS	Up Main 168 metres
@@ -2222,6 +2600,21 @@ London-North-Western-South	0352	029	PARKWAY	Up Bicester line
 London-North-Western-South	0354	005	SOUTH RUISLIP	Platform lengths South Ruislip
 London-North-Western-South	0354	006	SOUTH RUISLIP	Down Northolt Loop. 123 metres
 London-North-Western-South	0354	007	SOUTH RUISLIP	Up Main 141 metres
+London-North-Western-South	0356	012	GREAT MISSENDEN	Platform lengths Great Missenden
+London-North-Western-South	0356	014	GREAT MISSENDEN	Down Main-161 metres
+London-North-Western-South	0356	016	GREAT MISSENDEN	Up Main-102 metres
+London-North-Western-South	0356	018	GREAT MISSENDEN	Platform lengths Wendover
+London-North-Western-South	0356	020	GREAT MISSENDEN	Down Main-170 metres
+London-North-Western-South	0356	022	GREAT MISSENDEN	Up Main-109 metres
+London-North-Western-South	0356	024	WENDOVER	Platform lengths Stoke Mandeville
+London-North-Western-South	0356	026	WENDOVER	Down Main-170 metres
+London-North-Western-South	0356	028	WENDOVER	Up Main-101 metres
+London-North-Western-South	0359	001	PRINCES RISBOROUGH	Platform lengths Princes Risborough
+London-North-Western-South	0359	002	PRINCES RISBOROUGH	Platform 1 - 61 metres - permissive (PP)
+London-North-Western-South	0359	004	PRINCES RISBOROUGH	Platform length
+London-North-Western-South	0359	005	PRINCES RISBOROUGH	Monks Risborough-95 metres
+London-North-Western-South	0359	006	MONKS RISBOROUGH	Platform length
+London-North-Western-South	0359	007	MONKS RISBOROUGH	Little Kimble-90 metres
 London-North-Western-South	0361	001	AYLESBURY	Platform lengths Aylesbury
 London-North-Western-South	0361	002	AYLESBURY	2-175 metres
 London-North-Western-South	0361	003	AYLESBURY	3-187 metres
@@ -2251,8 +2644,11 @@ Scotland	0153	005	LOCKERBIE	No platform on UPL
 Scotland	0160	002	CARSTAIRS	DP = Down Platform
 Scotland	0177	013	GLASGOW CENTRAL	Platforms 1-15 - PP
 Scotland	0187	001	LANARK	Platforms 1 2 - PP
+Scotland	0199	003	LARKHALL	Platforms 1 4 2 - PP
 Scotland	0253	002	KILMARNOCK	DPL - Down Platform Line
+Scotland	0256	003	BARRHEAD	Bay Platform - PP
 Scotland	0261	013	GLASGOW CENTRAL	Platforms 1-15 - PP
+Scotland	0270	001	EAST KILBRIDE	Platform 1 - PP
 Scotland	0309	006	GLASGOW CENTRAL	Platforms 1-15 - PP
 Scotland	0335	005	STRANRAER	Platform 1 - PP
 Scotland	0345	001	GOUROCK	Platforms 1-3 - PP
@@ -2275,6 +2671,7 @@ Scotland	0548	001	DALMUIR	Platform 5 - PP
 Scotland	0550	001	SPRINGBURN	Platforms 3 8 4 - PP
 Scotland	0550	002	SPRINGBURN	Down (Platform 2) Start of GSM-R area at Om 51ch
 Scotland	0550	003	BARNHILL	Up (Platform 1) End of GSM-R area at Om 52ch
+Scotland	0553	011	BEARSDEN	Platforms 1 4 2 - PP
 Scotland	0644	006	EDINBURGH WAVERLEY	Platforms 3-6, 12-18 - PP
 Scotland	0644	007	EDINBURGH WAVERLEY	On platform lines, PP and PP(A)
 Scotland	0646	022	HAYMARKET	Platform 0 - PP
@@ -2439,6 +2836,10 @@ Western-and-Wales	0276	001	DEVONFPORT	Platform 1 - 100m, 109yds
 Western-and-Wales	0276	002	DEVONFPORT	Platform 2 - 180m, 197yds
 Western-and-Wales	0276	003	DOCKYARD	Platform 1 - 96m, 105yds
 Western-and-Wales	0276	004	DOCKYARD	Platform 2 - 79m, 86yds
+Western-and-Wales	0277	001	KEYHAM	Platform 1 - 129m, 141yds
+Western-and-Wales	0277	002	KEYHAM	Platform 2 - 123m, 135yds
+Western-and-Wales	0277	003	ST. BUDEAUX	Platform 1 - 124m, 136yds
+Western-and-Wales	0277	004	ST. BUDEAUX	Platform 2 - 126m, 138yds
 Western-and-Wales	0278	001	SALTASH	Platform 1 - 124m, 136yds
 Western-and-Wales	0278	002	SALTASH	Platform 2 - 127m, 139yds
 Western-and-Wales	0278	003	ST. GERMANS	Platform 1 - 128m, 140yds
@@ -2464,10 +2865,16 @@ Western-and-Wales	0291	003	PENZANCE	Platform 1 - 265m (290 yards) (PP)
 Western-and-Wales	0291	004	PENZANCE	Platform 2 - 265m (290 yards) (PP)
 Western-and-Wales	0291	005	PENZANCE	Platform 3 - 238m (257 yards) (PP)
 Western-and-Wales	0291	006	PENZANCE	Platform 4 - 225m (246 yards) (PP)
+Western-and-Wales	0298	005	DRAYTON GREEN	Platform 1 - 53m, 58yds
+Western-and-Wales	0298	006	DRAYTON GREEN	Platform 2 - 50m, 55yds
+Western-and-Wales	0298	007	DRAYTON GREEN	Platforms 1 2 - 50m, 55yds
+Western-and-Wales	0298	008	CASTLE BAR PARK	Platform 1 - 49m, 54yds
+Western-and-Wales	0298	009	CASTLE BAR PARK	Platform 2 - 51m, 56yds
 Western-and-Wales	0300	003	GREENFORD	Platform 2 - 83m, 91yds
 Western-and-Wales	0306	006	HEATHROW CENTRAL	Platforms - 195m (213 yards)
 Western-and-Wales	0306	022	HEATHROW TERMINAL 5	Platforms - 217m (237 yards)
 Western-and-Wales	0307	006	HEATHROW TERMINAL 4	Platforms - 195m (213 yards)
+Western-and-Wales	0309	003	SLOUGH	Platform - 113m, 123yds
 Western-and-Wales	0310	008	MAIDENHEAD	Platform - 138m, 151yds
 Western-and-Wales	0311	001	COOKHAM	Platform - 108m, 118yds
 Western-and-Wales	0311	004	COOKHAM	Down platform - 47m, 51yds
@@ -2529,6 +2936,10 @@ Western-and-Wales	0398	001	AVONMOUTH	Down platform - 92m, 100yds
 Western-and-Wales	0398	002	AVONMOUTH	Up platform - 83m, 90yds (Tel.)
 Western-and-Wales	0398	004	SHIREHAMPTON	Platform - 128m, 140yds
 Western-and-Wales	0399	001	SEA MILLS	Platform - 118m, 129yds
+Western-and-Wales	0400	002	CLIFTON DOWN	Sea Mills end of platform
+Western-and-Wales	0400	003	CLIFTON DOWN	Down platform - 108m, 118yds
+Western-and-Wales	0400	004	REDLAND	Up platform - 106m, 116yds
+Western-and-Wales	0400	006	MONTPELIER	Platform - 120m, 131yds
 Western-and-Wales	0402	004	KEMBLE	Down platform - 194m, 212yds
 Western-and-Wales	0402	005	KEMBLE	Up platform - 180m, 196yds
 Western-and-Wales	0403	007	STROUD	Down platform - 185m, 202yds (Tel.)
@@ -2546,6 +2957,12 @@ Western-and-Wales	0408	010	MIDGHAM	Down platform - 97m, 106yds
 Western-and-Wales	0408	011	MIDGHAM	Up platform - 117m, 128yds
 Western-and-Wales	0408	012	THATCHAM	Platform 1 - 168m, 184 yds
 Western-and-Wales	0408	013	THATCHAM	Platform 2 - 168m, 184 yds
+Western-and-Wales	0409	007	NEWBURY RACECOURSE	Platform 1 - 89m, 97yds
+Western-and-Wales	0409	008	NEWBURY RACECOURSE	Platform 2 - 74m, 81yds
+Western-and-Wales	0409	009	NEWBURY RACECOURSE	Platform 3 - 206m, 225yds
+Western-and-Wales	0409	010	NEWBURY	Down platform 1 - 291m, 318yds
+Western-and-Wales	0409	016	NEWBURY	Up platform 2 - 327m, 358yds
+Western-and-Wales	0409	022	KINTBURY	Down platform - 105m, 115yds
 Western-and-Wales	0410	003	HUNGERFORD	Down platform - 150m, 164yds
 Western-and-Wales	0410	004	HUNGERFORD	Up platform - 153m, 167yds
 Western-and-Wales	0410	006	HUNGERFORD	Down platform - 121m, 132yds
@@ -2563,6 +2980,12 @@ Western-and-Wales	0421	007	WARMINSTER	Down platform - 27m, 29 yds
 Western-and-Wales	0421	008	DILTON MARSH	Up platform - 27m, 29yds
 Western-and-Wales	0422	007	TROWBRIDGE	Down platform - 121m, 132 yds
 Western-and-Wales	0422	008	TROWBRIDGE	Up platform - 154m, 168yds
+Western-and-Wales	0423	005	BRADFORD-ON-AVON	Down platform - 120m, 131yds
+Western-and-Wales	0423	007	BRADFORD-ON-AVON	Up platform - 133m, 145yds
+Western-and-Wales	0423	011	BRADFORD-ON-AVON	Down platform - 30m, 33yds
+Western-and-Wales	0423	013	AVONCLIFF	Up platform - 30m, 33yds
+Western-and-Wales	0423	015	AVONCLIFF	Down platform - 121m, 132yds
+Western-and-Wales	0423	017	FRESHFORD	Up platform - 121m, 132yds
 Western-and-Wales	0426	005	MELKSHAM	Platform - 38m, 42yds
 Western-and-Wales	0434	001	WESTBURY	Platform 1 - 224m (245 yards)
 Western-and-Wales	0434	002	WESTBURY	Platform 2 - 203m (222 yards)
@@ -2609,6 +3032,9 @@ Western-and-Wales	0473	002	QUINTREL DOWNS	Platform - 74m, 81yds
 Western-and-Wales	0473	003	NEWQUAY	Platform - 242m, 265yds
 Western-and-Wales	0476	001	PERRANWELL	Platform - 191m, 209yds
 Western-and-Wales	0476	002	PENRYN	Platform - 238m, 261yds
+Western-and-Wales	0477	001	PENMERE	Platform - 92m, 101yds
+Western-and-Wales	0477	002	FALMOUTH TOWN	Platform - 57m, 62yds
+Western-and-Wales	0477	003	FALMOUTH DOCKS	Platform - 65m, 71yds
 Western-and-Wales	0480	005	GLOUCESTER	Platform 1 - 246m (269 yards)
 Western-and-Wales	0480	006	GLOUCESTER	Platform 2 - 248m (271 yards)
 Western-and-Wales	0480	007	GLOUCESTER	Platform 3 - 105m (115 yards) (PP)
@@ -2644,12 +3070,26 @@ Western-and-Wales	0531	001	PENHELIG	Platform - 62m (68 yards)
 Western-and-Wales	0531	002	ABERDOVEY	Platform - 123m (135 yards)
 Western-and-Wales	0532	006	TYWYN	Down and Up platforms - 123m (134 yards)
 Western-and-Wales	0532	007	TYWYN	Platform - 92m (101 yards)
+Western-and-Wales	0533	001	LLWYNGWRIL	Platform - 53m (58 yards)
+Western-and-Wales	0533	003	FAIRBOURNE	Platform - 92m (101 yards)
+Western-and-Wales	0533	004	MORFA MAWDDACH	Platform - 91m (100 yards)
 Western-and-Wales	0534	005	BARMOUTH	Down and Up platforms - 212m (231 yards)
 Western-and-Wales	0534	014	BARMOUTH	Platform - 32m (35 yards)
+Western-and-Wales	0536	001	LLANDANWG	Platform - 23 m (25 yards)
+Western-and-Wales	0536	002	LLANDANWG	Down platform - 208m (227 yards)
+Western-and-Wales	0536	003	HARLECH	Up platform - 188m (206 yards)
+Western-and-Wales	0536	008	TYGWYN	Platform - 22m (24 yards)
 Western-and-Wales	0538	001	PORTHMADOG	Down Platform - 142 metres (155 yards)
 Western-and-Wales	0538	002	PORTHMADOG	Up Platform - 143 metres (156 yards)
 Western-and-Wales	0538	003	PORTHMADOG	CL Down Loop - 177 metres (193 yards) Down
 Western-and-Wales	0538	009	CRICCIETH	Platform - 128 metres (140 yards)
+Western-and-Wales	0539	001	PENYCHAIN	Platform - 108 metres (118 yards)
+Western-and-Wales	0539	002	ABERERCH	Platform - 31 metres (34 yards)
+Western-and-Wales	0539	003	ABERERCH	Headshunt 39 metres (42 yards)
+Western-and-Wales	0539	004	ABERERCH	Run Round line 333 metres (364 yards)
+Western-and-Wales	0539	005	ABERERCH	Headshunt 77 metres (84 yards)
+Western-and-Wales	0539	006	ABERERCH	Down Siding 148 metres (161 yards)
+Western-and-Wales	0539	007	PWLLHELI	Platform - 162 metres (177 yards) - PP
 Western-and-Wales	0542	002	YORTON	Down platform - 60m (65 yds)
 Western-and-Wales	0542	003	YORTON	Up platform - 50m (54 yds)
 Western-and-Wales	0542	004	YORTON	Down platform - 86m (94 yds)
@@ -2665,14 +3105,32 @@ Western-and-Wales	0545	003	NANTWICH	Up platform - 106m, (115yds)
 Western-and-Wales	0557	002	BARGOED	Platform 1 - 126m (137 yards)
 Western-and-Wales	0557	003	BARGOED	Platform 2 - 124m (135 yards)
 Western-and-Wales	0557	004	GILFACH FARGOED	Platforms - 17m (18 yards)
+Western-and-Wales	0558	002	PENGAM	Platforms - 124m (135 yards)
+Western-and-Wales	0558	005	HENGOED	Platforms - 124m (135 yards)
+Western-and-Wales	0558	006	YSTRAD MYNACH	Platforms - 125m (136 yards)
+Western-and-Wales	0559	005	LLANBRADACH	Platforms - 124m (135 yards)
+Western-and-Wales	0559	006	ENERGLYN AND CHURCHILL	Platforms - 126m (137 yards)
+Western-and-Wales	0560	002	ABER	Platforms - 124m (135yds)
+Western-and-Wales	0560	003	CAERPHILLY/ CAERFFILI	Platform 1 - 150m (164yds) - PP/C
+Western-and-Wales	0560	004	CAERPHILLY/ CAERFFILI	Platforms 2 and 3 - 238m (260yds)
+Western-and-Wales	0565	001	QUAKERS YARD/ MYNWENT Y CRYNWR	Platform - 126m, (138yds)
+Western-and-Wales	0565	002	ABERCYNON	Platform - 84m, (91yds)
 Western-and-Wales	0567	001	PONTYPRIDD	Platform 1 - 150m (164 yards)
 Western-and-Wales	0567	002	PONTYPRIDD	Platforms 2 and 3 - 124m (135 yards)
 Western-and-Wales	0567	003	TREFFOREST	Platforms - 143m (156 yards)
+Western-and-Wales	0568	002	TREFFOREST ESTATE	Down and Up platforms
+Western-and-Wales	0568	004	TREFFOREST ESTATE	Down platform - 143m, 156yds
+Western-and-Wales	0568	005	TREFFOREST ESTATE	Up platform - 143m, 156yds (Tel.)
 Western-and-Wales	0569	001	RADYR	Platforms 1 4 3 - 124m (135 yards)
 Western-and-Wales	0569	002	RADYR	Platform 2 - 108m (118yards)
 Western-and-Wales	0569	003	RADYR	Down platform - 143m, (156yds)
 Western-and-Wales	0569	004	LLANDAF	Up platform - 131m, (143yds)
 Western-and-Wales	0570	004	CATHAYS	Platforms - 124m (135 yards)
+Western-and-Wales	0571	002	CARDIFF QUEEN STREET/ CAERDYDD HEOL Y	Platform 1 - 55m, (60yds)
+Western-and-Wales	0571	003	CARDIFF QUEEN STREET/ CAERDYDD HEOL Y	Platform 2 - 124m, (135yds)
+Western-and-Wales	0571	004	CARDIFF QUEEN STREET/ CAERDYDD HEOL Y	Platform 3 - 184m, (201yds)
+Western-and-Wales	0571	005	CARDIFF QUEEN STREET/ CAERDYDD HEOL Y	Platform 4 - 161m, (176yds)
+Western-and-Wales	0571	006	CARDIFF QUEEN STREET/ CAERDYDD HEOL Y	Platform 5 - 166m, (181yds)
 Western-and-Wales	0572	010	CARDIFF CENTRAL/	Platform 4 - 265m, 289yds
 Western-and-Wales	0572	012	CARDIFF CENTRAL/	Platform 6 - 196m, 214yds
 Western-and-Wales	0572	014	CARDIFF CENTRAL/	Platform 7 - 196m, 214yds
@@ -2680,17 +3138,26 @@ Western-and-Wales	0572	016	CARDIFF CENTRAL/	Platform 8 - 154m, 168yds
 Western-and-Wales	0573	010	GRANGETOWN	Platforms - 124m (135yds)
 Western-and-Wales	0576	015	ABERDARE / ABERDAR	Platform - 101m, (111yds)
 Western-and-Wales	0576	017	CWMBACH	Platform - 94m (102yds)
+Western-and-Wales	0577	002	FERNHILL	Platform - 94m (102yds)
+Western-and-Wales	0577	005	MOUNTAIN ASH/	Platforms - 97m, (106yds)
 Western-and-Wales	0578	001	PENRHIWCEIBER	Platform - 94m, 102yds
 Western-and-Wales	0581	003	CARDIFF BAY/	Platform - 87m, 95yds
 Western-and-Wales	0582	002	DANESCOURT	Platforms - 50m, 54yds
+Western-and-Wales	0583	002	FAIRWATER / TYLLGOED	Platforms - 50m, 54yds
+Western-and-Wales	0583	003	WAUN-GRON PARK	Platforms - 47m, (51yds)
+Western-and-Wales	0583	004	NINIAN PARK	Platforms - 154m, (168yds)
 Western-and-Wales	0586	002	DINGLE ROAD	Platform - 124m, (135yds)
 Western-and-Wales	0586	003	PENARTH	Platform - 136m, (148yds)
 Western-and-Wales	0588	004	RHOOSE	Down and Up platforms
 Western-and-Wales	0589	002	LLANTWIT MAJOR	Down and Up platforms
+Western-and-Wales	0593	001	BRIDGEND	Platform - 84m, (91yds)
+Western-and-Wales	0593	002	WILDMILL	Platform - 84m, (91yds)
 Western-and-Wales	0594	001	TONDU	Platform - 84m (91yds)
 Western-and-Wales	0594	007	GARTH	Platform - 84m (91yds)
 Western-and-Wales	0595	001	MAESTEG	Platform - 84m (91yds)
 Western-and-Wales	0595	002	MAESTEG	Platform - 87m (95yds)
+Western-and-Wales	0611	010	SEVERN TUNNEL JUNCTION	Platform 1 - 145m (159 yards)
+Western-and-Wales	0611	012	STATION / CYFFORDD TWNNEL	Platforms 2, 3 4 - 171m (187 yards)
 Western-and-Wales	0616	001	NEWPORT / CASNEWYDD	Platform 1 - 360m, 394yds (PP-A,PP.C/PF)
 Western-and-Wales	0616	002	NEWPORT / CASNEWYDD	Platform 2 - 287m, 314yds (PP-A, PP.C/PF)
 Western-and-Wales	0616	003	NEWPORT / CASNEWYDD	Platform 3 - 311m, 340yds (PP-A,PP.C/PF)
@@ -2712,6 +3179,10 @@ Western-and-Wales	0625	002	BRIDGEND/PEN-Y-BONT	Platform 1A - 88m (97 yards)
 Western-and-Wales	0625	003	BRIDGEND/PEN-Y-BONT	Platform 2 - 255m (279 yards)
 Western-and-Wales	0625	004	BRIDGEND/PEN-Y-BONT	Platform 3 - 60m (66 yards)
 Western-and-Wales	0626	005	PYLE/PIL	Down and Up platforms
+Western-and-Wales	0629	001	PORT TALBOT PARKWAY	Platform 1 - 277m, 303yds
+Western-and-Wales	0629	002	PORT TALBOT PARKWAY	Platform 2 - 280m, 306yds
+Western-and-Wales	0629	007	PORT TALBOT PARKWAY	Down and Up platforms
+Western-and-Wales	0629	012	PORT TALBOT PARKWAY	Down and Up platforms
 Western-and-Wales	0630	001	NEATH/CASTELL-NEDD	Down platforms - 232m (254 yards)
 Western-and-Wales	0630	002	NEATH/CASTELL-NEDD	Up platform - 182m (199 yards)
 Western-and-Wales	0630	003	NEATH/CASTELL-NEDD	Down and Up platforms
@@ -2732,12 +3203,18 @@ Western-and-Wales	0638	003	WHITLAND / HENDY-GWYN	Bay platform - 134m, 146yds
 Western-and-Wales	0638	010	CLUNDERWEN	Down platform-134m, 147yds (Tel.)
 Western-and-Wales	0639	001	CLARBESTON ROAD	Down platform - 80m, 87yds (Tel.)
 Western-and-Wales	0639	002	CLARBESTON ROAD	Up platform - 122m, 133yds (Tel.)
+Western-and-Wales	0640	003	FISHGUARD AND GOODWICK	Platform - 92m (100 yards)
+Western-and-Wales	0640	005	FISHGUARD HARBOUR / PORTHLADD ABERGWAUN	Platform - 299m (327 yards)
 Western-and-Wales	0642	008	SWANSEA / ABERTAWE	Platform 1 - 273m, 298yds (PP)
 Western-and-Wales	0642	010	SWANSEA / ABERTAWE	Platform 2 - 274m, 299yds (PP)
 Western-and-Wales	0642	012	SWANSEA / ABERTAWE	Platform 3 - 278m, 304yds (PP)
 Western-and-Wales	0642	014	SWANSEA / ABERTAWE	Platform 4 - 263m, 287yds (PP)
 Western-and-Wales	0644	001	BROOME	Platform - 73m, 80yds
 Western-and-Wales	0644	002	HOPTON HEATH	Platform - 42m, 46yds
+Western-and-Wales	0645	002	BUCKNELL	Platform - 73m, 80yds
+Western-and-Wales	0645	003	BUCKNELL	Down platform - 63m, 69yds
+Western-and-Wales	0645	004	KNIGHTON / TREFYCLAWDD	Up platform - 87m, 95yds
+Western-and-Wales	0645	007	KNUCKLAS / CNUCLAS	Platform - 80m, 87yds
 Western-and-Wales	0646	001	LLANGYNLLO	Platform - 63m, 69yds
 Western-and-Wales	0646	002	LLANBISTER ROAD	Platform - 80m, 87yds
 Western-and-Wales	0647	002	DOLAU	Platform - 77m, 84yds
@@ -2745,9 +3222,15 @@ Western-and-Wales	0647	003	PEN-Y-BONT	Platform - 81m, 89yds
 Western-and-Wales	0648	002	LLANDRINDOD (TEP)	Down platform - 98m, 107yds
 Western-and-Wales	0648	003	LLANDRINDOD (TEP)	Up platform - 95m, 104yds
 Western-and-Wales	0648	005	BUILTH ROAD	Platform - 103m, 113yds
+Western-and-Wales	0649	001	CILMERI	Platform - 79m, 86yds
+Western-and-Wales	0649	002	GARTH	Platform - 80m, 87yds
+Western-and-Wales	0649	003	LLANGAMMARCH	Platform - 108m, 118yds
 Western-and-Wales	0650	002	LLANWRTYD (TEF)	Down platform - 166m, 182yds
 Western-and-Wales	0650	003	LLANWRTYD (TEF)	Up platform - 98m, 107yds
 Western-and-Wales	0650	005	SUGAR LOAF	Platform - 21m, 23yds
+Western-and-Wales	0651	001	CYNGHORDY	Platform - 97m, 106yds
+Western-and-Wales	0651	004	LLANDOVERY / LLANYMYDDYFRI (TEP) 	Down platform - 67m, 73yds
+Western-and-Wales	0651	005	LLANDOVERY / LLANYMYDDYFRI (TEP) 	Up platform - 53m, 58yds
 Western-and-Wales	0652	001	LLANWRDA	Platform - 91m, 100yds
 Western-and-Wales	0652	003	LLANGADOG	Platform - 85m, 93yds
 Western-and-Wales	0655	001	PANTYFFYNNON	Platform - 76m (83 yards)
