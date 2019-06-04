@@ -1,2 +1,2 @@
 # platforms
-platform file repository
+Repository for UK platform data
