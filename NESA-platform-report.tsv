@@ -1036,6 +1036,12 @@ London-North-Eastern	0804	008	BRADFORD FORSTER SQUARE	along Down and Platform 2 
 London-North-Eastern	0868	009	HARTLEPOOL	departing Down Bay Platform
 London-North-Eastern	0884	006	MIDDLESBROUGH	Up and Down platforms
 London-North-Eastern	0887	011	LONGBECK	Platforms 1 and 2 for Class 1, 2, 3ECS, 5,9 0
+London-North-Eastern	0892	000	CASTLETON MOOR DANBY	
+London-North-Eastern	0892	002	LEALHOLM	
+London-North-Eastern	0892	003	GLAISDALE	
+London-North-Eastern	0892	005	EGTON	
+London-North-Eastern	0892	006	GROSMONT	
+London-North-Eastern	0892	010	DANBY	
 London-North-Eastern	0893	002	SLEIGHTS	T = Whitby end of Sleights Station platform.
 London-North-Eastern	0913	006	SHILDON	3 (ECS), 5, 9 4 0 trains in Bishop Auckland platform
 London-North-Eastern	0921	023	CARLISLE	PP is authorised in Platforms 1, 3 and 4
@@ -2448,6 +2454,13 @@ London-North-Western-South	0139	003	WATFORD JUNCTION	Platform 2 - 135 metres (14
 London-North-Western-South	0139	004	WATFORD JUNCTION	Platform 3 - 135 metres (148 yards)
 London-North-Western-South	0139	005	WATFORD JUNCTION	Platform 4 - 135 metres (148 yards)
 London-North-Western-South	0140	003	WATFORD JUNCTION	Platform 11
+London-North-Western-South	0141	003	WATFORD NORTH	Watford North - 94 metres
+London-North-Western-South	0141	007	GARSTON	Garston - 85 metres
+London-North-Western-South	0141	008	GARSTON	Watford North - 94 metres
+London-North-Western-South	0141	010	BRICKET WOOD	Bricket Wood - 128 metres
+London-North-Western-South	0141	011	HOW WOOD	How Wood - 85 metres
+London-North-Western-South	0141	012	PARK STREET	Park Street - 85 metres
+London-North-Western-South	0141	013	ST ALBANS ABBEY	St Albans Abbey - 109 metres
 London-North-Western-South	0154	001	BLETCHLEY	Platform Lengths. Bletchley
 London-North-Western-South	0154	002	BLETCHLEY	Platform 5 262 metres.
 London-North-Western-South	0154	003	BLETCHLEY	Platform 6. 129 metres.
@@ -3504,6 +3517,12 @@ Western-and-Wales	0560	004	CAERPHILLY/ CAERFFILI	Platforms 2 and 3 - 238m (260yd
 Western-and-Wales	0561	004	LISVANE AND THORNHILL / LLYS-FAEN	Platforms - 124m (135yds)
 Western-and-Wales	0561	009	LLANISHEN	Platforms - 124m (135 yards)
 Western-and-Wales	0561	013	HEATH HIGH LEVEL/ LEFEL UCHEL HEATH	Platforms - 124m (135 yards)
+Western-and-Wales	0563	002	CORYTON	Platform - 64m, 71yds
+Western-and-Wales	0563	003	WHITCHURCH/ EGLWYS NEWYDD	Platform - 99m, 107yds
+Western-and-Wales	0563	004	RHIWBINA	Platform - 108m, 117yds
+Western-and-Wales	0563	005	BIRCHGROVE	Platform - 64m, 71yds
+Western-and-Wales	0563	006	TY GLAS	Platform - 49m, 54yds
+Western-and-Wales	0563	009	HEATH LOW LEVEL/ LEFEL ISEL HEATH	Platform - 107m, 116yds
 Western-and-Wales	0564	002	MERTHYR TYDFIL	Platform - 111m, 121yds
 Western-and-Wales	0564	003	PENTRE-BACH	Platform - 142m, 155yds
 Western-and-Wales	0564	005	TROED-Y-RHIW	Platform - 139m, 152yds
@@ -3531,6 +3550,12 @@ Western-and-Wales	0572	012	CARDIFF CENTRAL/	Platform 6 - 196m, 214yds
 Western-and-Wales	0572	014	CARDIFF CENTRAL/	Platform 7 - 196m, 214yds
 Western-and-Wales	0572	016	CARDIFF CENTRAL/	Platform 8 - 154m, 168yds
 Western-and-Wales	0573	010	GRANGETOWN	Platforms - 124m (135yds)
+Western-and-Wales	0574	004	COGAN	Down platform - 125m (136 yards)
+Western-and-Wales	0574	005	COGAN	Up platform - 109m (119 yards)
+Western-and-Wales	0574	008	EASTBROOK	Platforms - 90m, (98yds)
+Western-and-Wales	0574	009	DINAS POWYS	Platforms - 120m, (131yds)
+Western-and-Wales	0574	011	CADOXTON / TREGATWG	Down platform - 125m, (137yds)
+Western-and-Wales	0574	012	CADOXTON / TREGATWG	Up platform - 123m, (135yds)
 Western-and-Wales	0575	003	BARRY DOCKS/ DOCIAUR BARRI	Platform - 148m (161yds)
 Western-and-Wales	0575	007	BARRY/BARRI	Platform 1 - 222m (243yds)
 Western-and-Wales	0575	008	BARRY/BARRI	Platforms 2 and 3 - 138m (151yds)
@@ -3540,6 +3565,11 @@ Western-and-Wales	0576	017	CWMBACH	Platform - 94m (102yds)
 Western-and-Wales	0577	002	FERNHILL	Platform - 94m (102yds)
 Western-and-Wales	0577	005	MOUNTAIN ASH/	Platforms - 97m, (106yds)
 Western-and-Wales	0578	001	PENRHIWCEIBER	Platform - 94m, 102yds
+Western-and-Wales	0579	001	TREHERBERT / DREHERBER	Platform - 135m, (148yds)
+Western-and-Wales	0579	002	YNYSWEN	Platform - 124m, (135yds)
+Western-and-Wales	0579	003	TREORCHY / TREORCI	Platform - 124m, (135yds)
+Western-and-Wales	0579	004	TAV.R. LC (UWC)	Platform - 147m, (161yds)
+Western-and-Wales	0579	006	TON PENTRE	Platforms - 124mm, (135yds)
 Western-and-Wales	0580	002	LLWYNYPIA	Platform - 124m, (135yds)
 Western-and-Wales	0580	003	TONYPANDY	Platform - 147m, (160yds)
 Western-and-Wales	0580	004	DINAS RHONDDA	Platform - 137m, (150yds)
